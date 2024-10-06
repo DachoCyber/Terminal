@@ -1,0 +1,11 @@
+users/dragan/slike/macka.jpg 1920 1080 1
+users/dragan/slike/pas.jpg 1280 720 1
+users/milan/dokumenti/ugovor.txt 1341 UTF8
+users/milan/dokumenti/licna.jpg 640 480 0
+users/milan/slike/motor.jpg 1920 1080 1
+sistem.txt 20334 UTF16
+libs/liby.txt 1000 ASCII
+users/dragan/sifre.txt 502 ASCII/////dalibor.txt
+
+//dalibor.txt
+/dalibor.txt/dragan
